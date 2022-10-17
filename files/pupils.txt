@@ -1,0 +1,5 @@
+1:/pupkin ivan/2d/3 4 5 2 j/!
+2:/klimov/1a/3 3 5 5 2 3/!
+3:/shpak/2d/5 5 2/!
+4:/kuvalda/2d/3 3 3/!
+5:/nolik/2d/4 4 4 4/!
